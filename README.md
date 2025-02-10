@@ -33,28 +33,35 @@ In this Lab, we observe various network traffic to and from Azure Virtual Machin
 - Step 10 / Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
 
 
+
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="![wiresharkping](https://github.com/user-attachments/assets/4f700378-081e-47f5-8723-ad9bd59c381f)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![wiresharkping](https://github.com/user-attachments/assets/fe0d6592-cd64-4083-b774-a5f21a4bc692)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ping from windows Pc host to Linux host. screening to ICMP traffic on wireshark.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![wiresharkpinggoogle](https://github.com/user-attachments/assets/282a5b5b-8bbc-43f6-86d8-cb029e36fbfa)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ping from windows pc to google for public ip.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![wiresharkicmpaccessdisable](https://github.com/user-attachments/assets/9b7a1702-20a7-4e79-90e2-6ef713dd4ffb)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ICMP traffic disabled on linux VM, monitoring ICMP traffic halt and re-enabling icmp traffic. 
 </p>
 <br />
