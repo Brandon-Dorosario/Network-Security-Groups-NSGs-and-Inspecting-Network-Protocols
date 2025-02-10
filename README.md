@@ -36,7 +36,8 @@ In this Lab, we observe various network traffic to and from Azure Virtual Machin
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="[img]https://i.imgur.com/jUcCzva.png[/img]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![wiresharkping](https://github.com/user-attachments/assets/4f700378-081e-47f5-8723-ad9bd59c381f)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
