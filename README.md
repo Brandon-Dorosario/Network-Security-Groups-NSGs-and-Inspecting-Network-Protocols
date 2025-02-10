@@ -21,12 +21,12 @@ In this Lab, we observe various network traffic to and from Azure Virtual Machin
 
 <h2>High-Level Steps</h2>
 
-- Step 1 / Create Window-Linux Virtual machines
+- Step 1 / Create Window & Linux Virtual machines
 - Step 2 / Ensure both VMs are in the same Virtual Network / Subnet
-- Step 3 / Using wireshark observe and screen for ICMP Traffic only
+- Step 3 / Using wireshark, observe and screen for ICMP Traffic only
 - Step 4 / Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
 - Step 5 / From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
-- Step 6 / Configuring a Firewall [Network Security Group]
+- Step 6 / Configuring a Firewall [Network Security Group] (disable ICMP and SSH traffic)
 - Step 7 / Open the Network Security Group the Ubuntu VM is using and disable incoming (inbound) ICMP traffic
 - Step 8 / Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
 - Step 9 / Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is on
